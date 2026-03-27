@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "date_logged": "2026-03-25 18:28:06",
+    "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
+    "recommendation": "BET NO",
+    "yes_price": 0.1855,
+    "no_price": 0.8145,
+    "volume": 12962242.316651044,
+    "end_date": "2026-06-30T00:00:00Z",
+    "claude_probability": 0.12,
+    "stake": 10,
+    "status": "open",
+    "result": null,
+    "pnl": 0
+  },
+  {
+    "id": 2,
+    "date_logged": "2026-03-25 18:28:08",
+    "question": "Will Jesus Christ return before GTA VI?",
+    "recommendation": "BET NO",
+    "yes_price": 0.485,
+    "no_price": 0.515,
+    "volume": 10118452.587606104,
+    "end_date": "2026-07-31T12:00:00Z",
+    "claude_probability": 0.02,
+    "stake": 10,
+    "status": "open",
+    "result": null,
+    "pnl": 0
+  },
+  {
+    "id": 3,
+    "date_logged": "2026-03-25 18:28:10",
+    "question": "Will bitcoin hit $1m before GTA VI?",
+    "recommendation": "BET NO",
+    "yes_price": 0.4865,
+    "no_price": 0.5135,
+    "volume": 3751907.4841946815,
+    "end_date": "2026-07-31T12:00:00Z",
+    "claude_probability": 0.28,
+    "stake": 10,
+    "status": "open",
+    "result": null,
+    "pnl": 0
+  },
+  {
+    "id": 4,
+    "date_logged": "2026-03-27 11:00:08",
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+    "recommendation": "BET NO",
+    "yes_price": 0.365,
+    "no_price": 0.635,
+    "volume": 5556073.088845984,
+    "end_date": "2026-07-01T00:00:00Z",
+    "claude_probability": 0.28,
+    "stake": 10,
+    "status": "open",
+    "result": null,
+    "pnl": 0
+  }
+]
